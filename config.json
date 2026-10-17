@@ -1,0 +1,34 @@
+{
+  "users": {
+    "975573402": {
+      "sudoList": [
+        "243861217284@s.whatsapp.net",
+        "975572302@s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/Daren.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "⚡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    },
+    "243861217284": {
+      "sudoList": [
+        "243861217284@s.whatsapp.net"
+      ],
+      "tagAudioPath": "tag.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "🎯",
+      "welcome": false,
+      "record": true,
+      "type": false,
+      "publicMode": false
+    }
+  }
