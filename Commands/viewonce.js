@@ -1,4 +1,4 @@
-import { DigixNew } from '../utils/DigixNew.js';
+import { DarenNew } from '../utils/DarenNew.js';
 import { downloadMediaMessage } from 'baileys';
 import fs from 'fs';
 import path from 'path';
