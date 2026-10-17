@@ -1,3 +1,4 @@
+
 import configmanager from '../utils/configmanager.js'
 
 const antilinkSettings = {}
